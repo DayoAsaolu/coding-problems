@@ -1,4 +1,4 @@
-## Easy
+## Easy..
 1. No 359 - Logger Rate Limiter  - June 14th
 2. No 551 - Student Attendance Record I - Jun 14th
 3. No 1592 - Rearrange Spaces Between Words
