@@ -1,5 +1,5 @@
 ## Easy
-1. No 359 - Logger Rate Limiter  - Jun 14th 2022
+1. No 359 - Logger Rate Limiter  - 
 2. No 551 - Student Attendance Record I
 3. No 1592 - Rearrange Spaces Between Words
 4. No 2235 - Add Two Integers
