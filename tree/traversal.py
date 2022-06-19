@@ -24,6 +24,17 @@ def preorderTraversal(root):
             
     return elements
 
+
+def inorderTraversal(root):
+    if not root: return []
+    
+    elements = []
+    
+    
+   
+            
+            
+    return elements
 def main():
     """
                     1
