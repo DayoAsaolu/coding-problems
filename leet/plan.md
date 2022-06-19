@@ -29,7 +29,7 @@
 
 ## Medium 
 1. No 33. Search in Rotated Sorted Array
-1. No 153. Find Minimum in Rotated Sorted Array
+2. No 153. Find Minimum in Rotated Sorted Array
 1. No 98. Validate Binary Search Tree
 1. No 102. Binary Tree Level Order Traversal
 1. No 146. LRU Cache
@@ -74,7 +74,7 @@
 1. No 1438. Longest Continuous Subarray With 
 1. No 210. Course Schedule II
 1. No 695. Max Area of Island
-
+1. 0000--------------------------
 1. No 271. Encode and Decode Strings
 1. No 348. Design Tic-Tac-Toe
 1. No 128. Longest Consecutive Sequence
@@ -88,7 +88,7 @@
 1. No 287. Find the Duplicate Number
 1. No 78. Subsets
 1. No 1386. Cinema Seat Allocation
-
+1. 0000--------------------------
 1. No 399. Evaluate Division
 1. No 547. Number of Provinces
 1. No 138. Copy List with Random Pointer
