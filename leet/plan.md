@@ -9,9 +9,10 @@
 7. No 2103 - Rings and Rods - Jun 18th
 1. No 206. Reverse Linked List - Jun 18th
 1. No 21. Merge Two Sorted Lists - Jun 18th
+1. No 1480 Running Sum of 1d array - Jun 18th
 1. No 543. Diameter of Binary Tree - 
-1. No 110. Balanced Binary Tree
 1. No 141. Linked List Cycle
+1. No 110. Balanced Binary Tree
 1. No 252. Meeting Rooms
 1. No 70. Climbing Stairs
 1. No 136. Single Number
@@ -28,6 +29,7 @@
 
 
 ## Medium 
+1. No 200. Number of Islands
 1. No 33. Search in Rotated Sorted Array
 2. No 153. Find Minimum in Rotated Sorted Array
 1. No 98. Validate Binary Search Tree
@@ -35,7 +37,6 @@
 1. No 146. LRU Cache
 1. No 130. Surrounded Regions
 1. No 1249. Minimum Remove to Make Valid
-1. No 200. Number of Islands
 1. No 763. Partition Labels
 1. No 253. Meeting Rooms II
 1. No 3. Longest Substring Without Repeating Characters
