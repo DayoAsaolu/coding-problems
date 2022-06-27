@@ -22,12 +22,12 @@ def printer(arr):
 
 def main():
     
-    arr = [10,5,2,3]
-    
+    arr = [1,2,3,4]
+    print(arr)
 
     # print("sorted arr --> ",quickSort(arr))
 
-    printer(arr)
+    # printer(arr)
     return 0
 
 

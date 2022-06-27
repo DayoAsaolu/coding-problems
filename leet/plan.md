@@ -11,7 +11,9 @@
 1. No 21. Merge Two Sorted Lists - Jun 18th
 1. No 1480 Running Sum of 1d array - Jun 18th
 1. No 543. Diameter of Binary Tree - 
-1. No 141. Linked List Cycle
+1. No 141. Linked List Cycle  - Jun 19th
+1. No 205. Isomorphic Strings - Jun 21st
+1. No 392. Is Subsequence - Jun 21st
 1. No 110. Balanced Binary Tree
 1. No 252. Meeting Rooms
 1. No 70. Climbing Stairs
