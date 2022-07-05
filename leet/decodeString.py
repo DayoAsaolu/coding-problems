@@ -14,7 +14,7 @@ def decodeString(s):
                 char = stack.pop()
                 if char == "[":
                     n = stack.pop()
-                    charList.append(n)+
+                    charList.append(n)
                     break
 
                 else:
