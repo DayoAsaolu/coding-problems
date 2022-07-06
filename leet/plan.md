@@ -15,7 +15,7 @@
 1. No 205. Isomorphic Strings - Jun 21st
 1. No 392. Is Subsequence - Jun 21st
 1. No 110. Balanced Binary Tree
-1. No 252. Meeting Rooms
+1. No 252. Meeting Rooms - done
 1. No 70. Climbing Stairs
 1. No 136. Single Number
 1. No 226. Invert Binary Tree
@@ -40,7 +40,7 @@
 1. No 130. Surrounded Regions
 1. No 1249. Minimum Remove to Make Valid
 1. No 763. Partition Labels
-1. No 253. Meeting Rooms II
+1. No 253. Meeting Rooms II -- done
 1. No 3. Longest Substring Without Repeating Characters
 1. No 424. Longest Repeating Character Replacement
 1. No 692. Top K Frequent Words
@@ -71,7 +71,7 @@
 1. No 735. Asteroid Collision
 1. No 380. Insert Delete GetRandom O(1)
 1. No 1146. Snapshot Array
-1. No 690. Employee Importance
+1. No 690. Employee Importance  -- done
 1. No 1344. Angle Between Hands of a Clock
 1. No 394. Decode String
 1. No 1438. Longest Continuous Subarray With 
