@@ -39,14 +39,14 @@
 1. No 146. LRU Cache
 1. No 130. Surrounded Regions
 1. No 1249. Minimum Remove to Make Valid
-1. No 763. Partition Labels
+1. No 763. Partition Labels  
 1. No 253. Meeting Rooms II -- done
 1. No 3. Longest Substring Without Repeating Characters
 1. No 424. Longest Repeating Character Replacement
 1. No 692. Top K Frequent Words
 1. No 105. Construct Binary Tree from Preorder and Inorder Traversal
 1. No 973. K Closest Points to Origin
-1. No 56. Merge Intervals
+1. No 56. Merge Intervals  -- done
 1. No 57. Insert Interval
 1. No 208. Implement Trie (Prefix Tree)
 1. No 211. Design Add and Search Words Data
