@@ -20,7 +20,8 @@
 1. No 136. Single Number
 1. No 226. Invert Binary Tree
 1. No 53. Maximum Subarray
-1. No 125. Valid Palindrome
+1. No 125. Valid Palindrome -- done
+1. No 680. Valid Palindrome II -- done
 1. No 104. Maximum Depth of Binary Tree
 1. No 121. Best Time to Buy and Sell Stock
 1. No 100. Same Tree
@@ -32,6 +33,7 @@
 
 ## Medium 
 1. No 200. Number of Islands
+1. No. 5 Longest Palindromic Substring 
 1. No 33. Search in Rotated Sorted Array
 2. No 153. Find Minimum in Rotated Sorted Array
 1. No 98. Validate Binary Search Tree
