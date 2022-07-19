@@ -19,7 +19,6 @@ class codec:
                 j+=1
             
             d = j - i
-
             l = int(s[i:j])
             w = s[ i+d+1:i+d+1+l ]
             strs.append(w)
